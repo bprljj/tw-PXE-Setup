@@ -6,7 +6,8 @@ a. combine two commands
 b. create python scripts
 	# cd /usr/local/bin/
 	# nano tftp_update.py
-	
+
+--INSERT--	
 (python scripts)	
 #!/usr/bin/env python3
 
